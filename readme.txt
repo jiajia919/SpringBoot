@@ -1,1 +1,0 @@
-项目用框架 springBoot + mybatis + mongodb(没有数据库用户名密码) 参考文档https://www.cnblogs.com/ityouknow/p/6828919.html
